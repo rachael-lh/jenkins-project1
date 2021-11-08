@@ -1,1 +1,1 @@
-echo "Hola hola" run.sh
+echo "Hola hola from run.sh"
